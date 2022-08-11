@@ -1,4 +1,4 @@
-# entra21 aulas-frontend-typeascript
+# entra21 aulas-frontend-typescript
 Repositório com as práticas realizadas em aula 
 
 > Conteúdo prático realizado em sala durante o projeto Entra21
